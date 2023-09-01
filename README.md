@@ -1,8 +1,8 @@
-<img align="right" alt=" ... " height="380" src="https://github.com/cramancio/cramancio/assets/126412841/4a0eee0f-9f3e-4f77-b183-9eebc28c3228">
+<img align="right" alt=" ... " height="380" src="https://github.com/cramancio/cramancio/assets/126412841/804aaa75-ebcd-4e74-9617-30075c12993f">
 
 <h1>
     <a href="https://cramancio.github.io/">
-     <img align="center" alt="Logo Carlos Amancio" width="36px" src="https://github.com/cramancio/cramancio/assets/126412841/027c3d28-a635-41d2-b28d-e02724549748"></a>
+     <img align="center" alt="Logo Carlos Amancio" width="36px" src="https://github.com/cramancio/cramancio/assets/126412841/33b4c75b-1ef8-4632-a429-e0f3a0a72b7d"></a>
     <span>Carlos R. Amancio</span>
 </h1>
 
