@@ -6,7 +6,7 @@
     <span>Carlos R. Amancio</span>
 </h1>
 
-<p align="justify">Desenvolvedor Back End de Vila Nova dos Martírios, Maranhão, Brasil, graduando em  Analise e Desenvolvimento Sistemas. 
+<p align="justify">Desenvolvedor Back End de Vila Nova dos Martírios, Maranhão, Brasil, graduando em  Engenharia de Software. 
 <br>
  Apaixonado por tecnologia, alguns dos meus hobbies são jogos online, assistir futebol e  praticiar atividade física</a>.</p>
 <!--
